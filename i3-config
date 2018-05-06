@@ -172,3 +172,5 @@ bar {
 # Startup applications
 exec variety
 exec polybar foobar
+exec --no-startup-id i3-msg 'workspace 3; exec feh ~/Pictures/mod_hotkeys.png'  
+exec --no-startup-id i3-msg 'workspace 3; exec feh ~/Pictures/mod_shift_hotkeys.png'  

@@ -96,3 +96,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /home/sean/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias update_configs="zsh ~/Documents/update_configs.sh"
+alias hotkeys="zsh ~/Documents/hotkeys.sh"
