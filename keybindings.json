@@ -15,5 +15,13 @@
     {
         "key": "ctrl+w",
         "command": "-workbench.action.closeActiveEditor"
-    }
+    },
+    {
+        "key": "meta+l",
+        "command": "workbench.action.nextEditor"
+    },
+    {
+        "key": "meta+h",
+        "command": "workbench.action.previousEditor"
+    },
 ]
